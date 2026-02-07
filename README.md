@@ -1,5 +1,8 @@
 # Welcome to your Lovable project
 
+## App info
+https://blog-life-joy.lovable.app/
+
 ## Project info
 
 **URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
