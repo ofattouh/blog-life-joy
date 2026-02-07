@@ -1,4 +1,4 @@
-## App URL
+## Life style app created with AI
 
 https://blog-life-joy.lovable.app/
 
